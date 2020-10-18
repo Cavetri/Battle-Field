@@ -1,0 +1,12 @@
+def andrew_vito_demetri(percent, range([0, 101]):
+  names = ['andrew ', 'vito ', 'demetri ']
+  percent = [0 % 10 == 0]
+  range = [0]
+andrew_vito_demetri = ['andrew ' 10, 'vito ' 10, 'demetri ' 10]
+  for names in range([0, 101]):
+  [10] += names
+  if percent in names < [10]:
+  print([0], range([-1]))
+else:
+  return names + percent + range([0, 101])
+andrew_vito_demetri()
