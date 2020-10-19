@@ -8,5 +8,5 @@ andrew_vito_demetri = ['andrew ' 10, 'vito ' 10, 'demetri ' 10]
   if percent in names < [10]:
   print([0], range([-1]))
 else:
-  return -0,0 + range([0, 101])
+  return -0,0 + range([1, 12])
 andrew_vito_demetri()
